@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6429e17b-9eae-43e1-b8be-f2bdc04aa290" name="Changes" comment="Position">
+    <list default="true" id="6429e17b-9eae-43e1-b8be-f2bdc04aa290" name="Changes" comment="change of x">
       <change beforePath="$PROJECT_DIR$/src/FramePositioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FramePositioning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696096901634</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change of x">
+      <created>1696097187105</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696097187105</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +108,7 @@
     <MESSAGE value="Using frame (CodeChum activity)" />
     <MESSAGE value="Using frame" />
     <MESSAGE value="Position" />
-    <option name="LAST_COMMIT_MESSAGE" value="Position" />
+    <MESSAGE value="change of x" />
+    <option name="LAST_COMMIT_MESSAGE" value="change of x" />
   </component>
 </project>
