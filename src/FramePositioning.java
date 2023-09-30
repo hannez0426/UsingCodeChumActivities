@@ -6,7 +6,7 @@ public class FramePositioning extends JFrame{
     public static void main(String[] args) {
         FramePositioning frame = new FramePositioning();
         frame.setTitle("Frame With Position");
-        frame.setBounds(700,300,600,500);
+        frame.setBounds(750,300,600,500);
         frame.setVisible(true);
     }
 }
