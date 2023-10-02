@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6429e17b-9eae-43e1-b8be-f2bdc04aa290" name="Changes" comment="change of x">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6429e17b-9eae-43e1-b8be-f2bdc04aa290" name="Changes" comment="JPanel subs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FramePositioning.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/FramePositioning.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FramePositioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FramePositioning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696093461268</updated>
       <workItem from="1696227666497" duration="60000" />
-      <workItem from="1696227787637" duration="952000" />
+      <workItem from="1696227787637" duration="3266000" />
     </task>
     <task id="LOCAL-00001" summary="Using frame (CodeChum activity)">
       <created>1696095580005</created>
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696097187105</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="JPanel subs">
+      <option name="closed" value="true" />
+      <created>1696228801577</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696228801577</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +135,7 @@
     <MESSAGE value="Using frame" />
     <MESSAGE value="Position" />
     <MESSAGE value="change of x" />
-    <option name="LAST_COMMIT_MESSAGE" value="change of x" />
+    <MESSAGE value="JPanel subs" />
+    <option name="LAST_COMMIT_MESSAGE" value="JPanel subs" />
   </component>
 </project>
